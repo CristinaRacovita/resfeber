@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280392380512",
+    "firebase_url": "https://resfeber-80fd6.firebaseio.com",
+    "project_id": "resfeber-80fd6",
+    "storage_bucket": "resfeber-80fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280392380512:android:8ec81253b0fbbb09c71305",
+        "android_client_info": {
+          "package_name": "com.example.resfeber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280392380512-aht9o2evi39tml1p6ecqgfage1pvap66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hahjkkTmQ0engry-W0kM1-wOf89eDiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280392380512-aht9o2evi39tml1p6ecqgfage1pvap66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
