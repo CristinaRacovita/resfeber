@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_my_events"
+        app:showAsAction="always|withText"
+        android:enabled="true"
+        android:icon="@drawable/ic_event"
+        android:title="@string/myEvents" />
+    <item
+        android:id="@+id/action_explore"
+        app:showAsAction="ifRoom|withText"
+        android:enabled="true"
+        android:icon="@drawable/ic_tour"
+        android:title="@string/explore" />
+    <item
+        android:id="@+id/action_menu"
+        app:showAsAction="always|withText"
+        android:enabled="true"
+        android:icon="@drawable/ic_user_white"
+        android:title="@string/menu" />
+</menu>
